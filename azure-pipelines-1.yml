@@ -1,0 +1,6 @@
+
+pool: dev
+
+steps:
+- script: echo Hello, world!
+  
